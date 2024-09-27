@@ -9,8 +9,6 @@ import ReduxFinal from "./pages/ReduxFinal";
 import PublicLayout from "./layout/PublicLayout";
 import MThemeProvider from "./theme/MThemProvider";
 
-
-
 function App() {
   return (
     <BrowserRouter>
